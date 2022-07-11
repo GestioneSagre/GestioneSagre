@@ -1,0 +1,2 @@
+# GestioneSagre
+Docker, applicazione compilata
